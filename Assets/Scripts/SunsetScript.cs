@@ -14,7 +14,7 @@ public class SunsetScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.RotateAround(Vector3.zero, Vector3.right, 1f * Time.deltaTime);
+        transform.RotateAround(Vector3.zero, Vector3.right, 0.5f * Time.deltaTime);
         transform.LookAt(new Vector3(player.transform.position.x, player.transform.position.y, player.transform.position.z));
     }
 }
