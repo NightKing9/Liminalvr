@@ -72,9 +72,7 @@
     <Compile Include="Assets\Scripts\SunsetScript.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
     <None Include="Assets\Rocks\Shaders\shader info.txt" />
-    <None Include="Assets\CoconutPalmTree\Shaders\TFP_treecreator\TFPTreeCreatorLeavesOptimized.shader" />
     <None Include="Assets\Grass\Readme.txt" />
-    <None Include="Assets\CoconutPalmTree\Shaders\TFP_treecreator\TFPTreeCreatorBarkOptimized.shader" />
     <None Include="Assets\Boids\Scripts\BoidCompute.compute" />
     <None Include="Assets\Rocks\Shaders\Blend SM3.shader" />
     <None Include="Assets\Rocks\Shaders\Blend SM2.shader" />
